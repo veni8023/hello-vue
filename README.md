@@ -1,2 +1,2 @@
 # hello-vue
-vue.js的联系
+vue.js的基础操作
